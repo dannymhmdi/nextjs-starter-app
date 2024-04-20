@@ -1,0 +1,7 @@
+@media screen and (min-width:640px) {
+    .dialog-box{
+        left: initial !important;
+        right: initial !important;
+        bottom: initial !important;
+    }
+}
